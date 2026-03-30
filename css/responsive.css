@@ -1607,8 +1607,9 @@
 	}
 	
 	.dest-block-two .hvr-box .tour-count{
-		margin-left:0px;
-		margin-top:10px;
+		margin-left:10px;
+		margin-top:0px;
+		font-size: 12px;
 	}
 	
 	.products-section .see-more-link{

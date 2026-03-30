@@ -2256,6 +2256,46 @@ padding-bottom: 60px;
   border-radius: 6px;
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 768px) {
+.dest-block-two .hvr-box h4 {
+font-size: 12px;
+}
+.dest-block-two .hvr-box  p{
+font-size: 12px;
+}
+.dest-block-two .hvr-box .cap-box{
+  position: absolute;
+  left: 20px;
+  bottom: 0px;
+  right: 20px;
+  text-align: center;
+}
+    
+.dest-block-two .hvr-box .tour-count{
+margin: 0;
+    }
+}
+
+
+
+
+
 .dest-block-two .hvr-box h4{
   position: relative;
   float: left;
