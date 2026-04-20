@@ -716,6 +716,7 @@ img {
 .main-header .main-box .logo-box .logo img {
   position: relative;
   display: block;
+  width: 150px;
   height: 66px;
   z-index: 1;
 }
@@ -1461,6 +1462,10 @@ body.visible-sidebar{
   .btn-style-two{
     font-size: 12px;
   }
+  
+  .main-header .main-box .logo-box .logo img {
+  width: 100px !important;
+  }
 }
 /* BACKGROUND LAYER */
 .banner-bg{
@@ -1589,6 +1594,10 @@ body.visible-sidebar{
 @media (max-width: 576px) {
   .steps {
     grid-template-columns: 1fr;
+  }
+
+  .main-header .main-box .logo-box .logo img {
+  width: 100px;
   }
 }
 
